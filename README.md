@@ -12,16 +12,13 @@ I love testing the limits of software, as well as programming low-level systems 
 I enjoy working in environments that challenge me and give me new opportunities to challenge my brain.
 
 
-
 ## Work Experience
 * Scientific Research: Robotics and Artificial Intelligence Scientific Research.
 
 * Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
-
 ## Education
 * Graduation in Systems Analysis and Software Development/Computer Science
-
 
 ## My actual skills
 * C
