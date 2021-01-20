@@ -4,6 +4,8 @@ title: CV
 permalink: /about/
 ---
 
+:smile:
+
 ## 👨‍💻 Hamilton Mendes
 * 🌎 Location: Internet
 * 📬 e-mail: hamilton \_j[at] gmx.com

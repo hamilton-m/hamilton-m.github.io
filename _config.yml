@@ -22,3 +22,6 @@ markdown: kramdown
 
 gems:
   - jemoji
+  
+emoji:
+  src: "/assets/images/emoji"
