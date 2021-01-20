@@ -17,10 +17,10 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 * 🔒 Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
-## Education
-* Graduation in Systems Analysis and Software Development/Computer Science
+## 🏫 Education
+* 🎓 Graduation in Systems Analysis and Software Development/Computer Science
 
-## My actual skills
+## 🔧 My actual skills
 * C
 * Python
 * Reverse Engineering
