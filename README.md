@@ -1,6 +1,6 @@
 
 ## Hamilton Mendes
-* Location: Internet
+* Location: Internet 🌎
 * e-mail: hamilton \_j[at] gmx.com
 
 ## Current Timeline
