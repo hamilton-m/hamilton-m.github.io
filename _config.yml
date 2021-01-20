@@ -19,3 +19,6 @@ github_username:  null
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jemoji
