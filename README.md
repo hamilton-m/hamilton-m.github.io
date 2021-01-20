@@ -1,7 +1,7 @@
 
 ## Hamilton Mendes
 Location: Internet
-e-mail: hamilton_j[at[''gmx.com
+e-mail: hamilton \_j[at] gmx.com
 
 ## Current Timeline
 I am currently graduated in Systems Analysis and Software Development.
