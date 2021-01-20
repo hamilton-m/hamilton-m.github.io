@@ -6,10 +6,11 @@ permalink: /about/
 
 :smile:
 
-## 👨‍💻 Hamilton Mendes
-* 🌎 Location: Internet
+## 👨‍💻 Hamilton Mendes :smile:
+* 🌎 Location: Internet :smile:
 * 📬 e-mail: hamilton \_j[at] gmx.com
 
+:smile:
 ---
 
 ## ⏳ Who am I
