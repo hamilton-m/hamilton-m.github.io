@@ -45,12 +45,9 @@ I enjoy working in environments that challenge me and give me new opportunities 
 * Firmware Development
 * Compilation of kernels for embedded systems
 
-
 ## Certifications / Licenses
-TOEFL English Certification
+* TOEFL English Certification
 
-Additional Information
-Add Sections
 ## Languages
 * English
 * Brazilian Portuguese
