@@ -56,8 +56,12 @@ I enjoy working in environments that challenge me and give me new opportunities 
 * Firmware Development
 * Compilation of kernels for embedded systems
 
+---
+
 ## <span class="icon_color">🏆</span> Certifications / Licenses
 * <span class="icon_color">🏆</span> TOEFL English Certification
+
+---
 
 ## <span class="icon_color">🌐</span> Languages
 * <span class="icon_color">🌐</span> English
