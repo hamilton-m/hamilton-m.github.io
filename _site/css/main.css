@@ -14,29 +14,29 @@
   top: 0;
   transition: top ease 0.5s; }
 
-.icon_color:hover {
-  color: #949cdf;
-  position: relative;
-  top: -7px; }
-
 h2 {
   position: relative;
   left: 0;
   transition: left ease 0.5s; }
-
-h2:hover {
-  position: relative;
-  left: 7px; }
 
 li {
   position: relative;
   left: 0;
   transition: left ease 0.5s; }
 
-li:hover {
-  position: relative;
-  left: 7px; }
+@media (hover: hover) {
+  .icon_color:hover {
+    color: #949cdf;
+    position: relative;
+    top: -7px; }
 
+  h2:hover {
+    position: relative;
+    left: 7px; }
+
+  li:hover {
+    position: relative;
+    left: 7px; } }
 /**
  * Reset some basic elements
  */
