@@ -23,7 +23,7 @@
 	top: 0;
 	transition: top ease 0.5s;
 }
-.icon_color:hover{
+.icon_color (hover:hover){
 	color: #949cdf;
 	position: relative; top: -7px;
 }
@@ -32,7 +32,7 @@ h2{
 	left: 0;
 	transition: left ease 0.5s;
 }
-h2:hover{
+h2 (hover:hover){
 	position: relative; left: 7px;
 }
 li{
@@ -40,7 +40,7 @@ li{
 	left: 0;
 	transition: left ease 0.5s;
 }
-li:hover{
+li (hover:hover){
 	position: relative; left: 7px;
 }
 
