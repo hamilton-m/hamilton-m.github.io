@@ -10,10 +10,17 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: NotoEmoji-Regular;
+    src: url("../assets/fonts/NotoEmoji-Regular.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 
 
 // Our variables
-$base-font-family: Maria-rYB7;
+$base-font-family: Maria-rYB7, NotoEmoji-Regular;
 $base-font-size:   16px;
 $base-font-weight: bold;
 $small-font-size:  $base-font-size * 0.875;
