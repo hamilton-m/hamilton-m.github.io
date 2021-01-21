@@ -5,13 +5,14 @@ permalink: /about/
 ---
 
 
-## 👨‍:computer: Hamilton Mendes
-* :earth_americas: Location: Internet
-* :email: e-mail: hamilton \_j[at] gmx.com
+
+## 👨‍💻 Hamilton Mendes 
+* 🌎 Location: Internet 
+* 📬 e-mail: hamilton \_j[at] gmx.com
 
 ---
 
-## :hourglass: Who am I
+## ⏳ Who am I
 I am currently graduated in Systems Analysis and Software Development.
 My skills involve a wide knowledge of high and low level systems programming.
 As experience I have worked with scientific research in artificial intelligence and robotics, web development, reverse engineering and software security.
@@ -22,9 +23,9 @@ I enjoy working in environments that challenge me and give me new opportunities 
 ---
 
 ## 🧑‍💼 Work Experience
-* :microscope: Scientific Research: Robotics and Artificial Intelligence Scientific Research.
+* 🔬 Scientific Research: Robotics and Artificial Intelligence Scientific Research.
 
-* :lock: Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
+* 🔒 Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
 ---
 
