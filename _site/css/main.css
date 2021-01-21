@@ -11,6 +11,9 @@
 .icon_color {
   color: #a7c5eb; }
 
+.icon_color:hover {
+  color: #949cdf; }
+
 /**
  * Reset some basic elements
  */
