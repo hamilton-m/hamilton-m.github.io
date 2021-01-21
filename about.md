@@ -6,8 +6,8 @@ permalink: /about/
 
 
 ## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes 
-* 🌎 Location: Internet 
-* 📬 e-mail: hamilton \_j[at] gmx.com
+* <span class="icon_color">🌎</span> Location: Internet/Brazil
+* <span class="icon_color">📬</span> e-mail: hamilton \_j[at] gmx.com
 
 ---
 
@@ -34,7 +34,7 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 ---
 
-## 🔧 My actual skills
+## <span class="icon_color">🔧</span> My actual skills
 * C
 * Python
 * Reverse Engineering
@@ -56,9 +56,9 @@ I enjoy working in environments that challenge me and give me new opportunities 
 * Firmware Development
 * Compilation of kernels for embedded systems
 
-## 🏆 Certifications / Licenses
-* 🏆 TOEFL English Certification
+## <span class="icon_color">🏆</span> Certifications / Licenses
+* <span class="icon_color">🏆</span> TOEFL English Certification
 
-## 🌐 Languages
-* 🌐 English
-* 🌐 Brazilian Portuguese
+## <span class="icon_color">🌐</span> Languages
+* <span class="icon_color">🌐</span> English
+* <span class="icon_color">🌐</span> Brazilian Portuguese
