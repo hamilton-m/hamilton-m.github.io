@@ -21,7 +21,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: bold 16px/1.5 NotoEmoji-Regular;
+  font: bold 16px/1.5 Maria-rYB7, NotoEmoji-Regular;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
