@@ -21,16 +21,16 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 ---
 
-## 💼 Work Experience
+## <span class="icon_color">💼</span> Work Experience
 
-* 🔬 Scientific Research: Robotics and Artificial Intelligence Scientific Research.
+* <span class="icon_color">🔬</span> Scientific Research: Robotics and Artificial Intelligence Scientific Research.
 
-* 🔒 Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
+* <span class="icon_color">🔒</span> Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
 ---
 
-## 🏫 Education
-* 🎓 Graduation in Systems Analysis and Software Development
+## <span class="icon_color">🏫</span> Education
+* <span class="icon_color">🎓</span> Graduation in Systems Analysis and Software Development
 
 ---
 
