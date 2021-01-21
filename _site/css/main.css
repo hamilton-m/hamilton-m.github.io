@@ -17,7 +17,10 @@
 .icon_color:hover {
   color: #949cdf;
   position: relative;
-  top: -10px; }
+  top: -7px; }
+
+h2 {
+  color: red; }
 
 /**
  * Reset some basic elements
