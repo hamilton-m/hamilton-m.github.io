@@ -22,7 +22,7 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 * 🔬 Scientific Research: Robotics and Artificial Intelligence Scientific Research.
 
