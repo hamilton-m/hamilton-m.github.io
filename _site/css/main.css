@@ -9,10 +9,15 @@
   font-weight: bold;
   font-style: normal; }
 .icon_color {
-  color: #a7c5eb; }
+  color: #a7c5eb;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s; }
 
 .icon_color:hover {
-  color: #949cdf; }
+  color: #949cdf;
+  position: relative;
+  top: -10px; }
 
 /**
  * Reset some basic elements
