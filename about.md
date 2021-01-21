@@ -4,13 +4,11 @@ title: CV
 permalink: /about/
 ---
 
-:smile:
 
-## 👨‍:computer: Hamilton Mendes :smile:
-* :earth_americas: Location: Internet :smile:
+## 👨‍:computer: Hamilton Mendes
+* :earth_americas: Location: Internet
 * :email: e-mail: hamilton \_j[at] gmx.com
 
-:smile:
 ---
 
 ## :hourglass: Who am I
