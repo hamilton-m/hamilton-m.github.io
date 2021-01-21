@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Maria-rYB7;
+  src: url("../assets/fonts/Maria-rYB7.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
 /**
  * Reset some basic elements
  */
@@ -11,7 +16,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: bold 16px/1.5 Maria-rYB7;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -60,7 +65,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: bold; }
 
 /**
  * Links

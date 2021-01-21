@@ -3,12 +3,19 @@
 ---
 @charset "utf-8";
 
+@font-face {
+    font-family: Maria-rYB7;
+    src: url("../assets/fonts/Maria-rYB7.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: Maria-rYB7;
 $base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-weight: bold;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -27,6 +34,7 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
 
 
 
