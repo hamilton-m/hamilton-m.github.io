@@ -5,14 +5,13 @@ permalink: /about/
 ---
 
 
-
-## 👨‍💻 Hamilton Mendes 
+## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes 
 * 🌎 Location: Internet 
 * 📬 e-mail: hamilton \_j[at] gmx.com
 
 ---
 
-## ⏳ Who am I
+## <span class="icon_color">⏳</span> Who am I
 I am currently graduated in Systems Analysis and Software Development.
 My skills involve a wide knowledge of high and low level systems programming.
 As experience I have worked with scientific research in artificial intelligence and robotics, web development, reverse engineering and software security.

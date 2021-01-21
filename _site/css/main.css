@@ -8,6 +8,9 @@
   src: url("../assets/fonts/NotoEmoji-Regular.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
+.icon_color {
+  color: #a7c5eb; }
+
 /**
  * Reset some basic elements
  */
