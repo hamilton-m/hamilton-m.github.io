@@ -35,6 +35,12 @@ I enjoy working in environments that challenge me and give me new opportunities 
 ---
 
 ## <span class="icon_color">🔧</span> My actual skills
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png"></code>
 * C
 * Python
 * Reverse Engineering
