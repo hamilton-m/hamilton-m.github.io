@@ -20,6 +20,8 @@ Please check my [Resume](/about/)
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></code>
+
 
 
 
