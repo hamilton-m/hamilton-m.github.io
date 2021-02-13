@@ -34,7 +34,7 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 ---
 
-## <span class="icon_color">🔧</span> My actual skills
+## <span class="icon_color">🔧</span> Skills
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
