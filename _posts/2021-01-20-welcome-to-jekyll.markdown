@@ -12,6 +12,8 @@ def print_hi():
   print("Welcome")
 {% endhighlight %}
 
+Please check my [Resume](/about/)
+
 <p><strong>Languages and Tools:<p><strong>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -22,5 +24,6 @@ def print_hi():
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code> 
 
 
-Please check my [Resume](/about/)
+
+
 
