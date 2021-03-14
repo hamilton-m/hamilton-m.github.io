@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: CV Ptbr
 permalink: /about_ptbr/
 ---
 
