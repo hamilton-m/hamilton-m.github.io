@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 
-## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes 
-* <span class="icon_color">🌎</span> Location: Internet/Brazil
+## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes
 * <span class="icon_color">📬</span> e-mail: hamilton\_j [arroba] gmx.com
 
 ---
