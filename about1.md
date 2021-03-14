@@ -7,7 +7,7 @@ permalink: /about/
 
 ## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes 
 * <span class="icon_color">🌎</span> Location: Internet/Brazil
-* <span class="icon_color">📬</span> e-mail: hamilton \_j[at] gmx.com
+* <span class="icon_color">📬</span> e-mail: hamilton\_j [arroba] gmx.com
 
 ---
 
@@ -23,11 +23,11 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ## <span class="icon_color">💼</span> Experiência Profissional
 
-* <span class="icon_color">🔬</span> Pesquisa Científica em Robótica e Inteligência Artificial.
+* <span class="icon_color">🔬</span> Pesquisa Científica em Robótica e Inteligência Artificial
 
-* <span class="icon_color">🔒</span> Desenvolvimento de Sistema anti-trapaças para jogos.
+* <span class="icon_color">🔒</span> Desenvolvimento de Sistema anti-trapaças para jogos
 
-* <span class="icon_color">🔒</span> Criação de Sistemas Web Híbridos completos.
+* <span class="icon_color">🔒</span> Criação de Sistemas Web Híbridos completos
 
 ---
 
@@ -42,7 +42,7 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png"></code>
-* Web Services
+* Serviços Web
 * Sistemas Web
 * Bancos de Dados
 * C
@@ -56,10 +56,10 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 * Python3 & Python2
 * Engenharia Reversa e Re-Engenharia
 * Assembly
-* Anti-Cheat Engines
+* Sistemas Anti-Trapaça
 * Advanced Computer Security
-* Firmware Development
-* Compilation of kernels for embedded systems
+* Desenvolvimento de Firmwares para Hardware
+* Compilação de Kernels para Sistemas Embarcados
 
 ---
 
