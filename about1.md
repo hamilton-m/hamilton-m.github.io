@@ -14,10 +14,10 @@ permalink: /about/
 ## <span class="icon_color">⏳</span> Quem sou eu
 Atualmente sou graduado em Análise e Desenvolvimento de Sistemas.
 Minhas habilidades envolvem um amplo conhecimento de sistemas de alto e baixo nível de abstração.
-Como experiência trabalhei com pesquisa científica em Inteligência Artificial e Robótica.As experience I have worked with scientific research in artificial intelligence and robotics, web development, reverse engineering and software security.
-I can work remotely and have availability during flexible hours. My experience includes advanced knowledge of high level programming languages, as well as low level systems, and languages ​​for Web Services, Web servers, Web deployment and more.
-I love testing the limits of software, as well as programming low-level systems and finding new ways to make things work.
-I enjoy working in environments that challenge me and give me new opportunities to challenge my brain.
+Como experiência trabalhei com pesquisa científica em Inteligência Artificial e Robótica. 
+Possuo amplo conhecimento na produção de sistemas Web completos, desde o planejamento até a entrega do produto final.
+Gosto de testar os limites dos softwares para obter a melhor qualidade possível.
+E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver problemas interessantesn.
 
 ---
 
