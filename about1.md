@@ -17,13 +17,13 @@ Minhas habilidades envolvem um amplo conhecimento de sistemas de alto e baixo n�
 Como experiência trabalhei com pesquisa científica em Inteligência Artificial e Robótica. 
 Possuo amplo conhecimento na produção de sistemas Web completos, desde o planejamento até a entrega do produto final.
 Gosto de testar os limites dos softwares para obter a melhor qualidade possível.
-E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver problemas interessantesn.
+E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver problemas interessantes.
 
 ---
 
-## <span class="icon_color">💼</span> Work Experience
+## <span class="icon_color">💼</span> Experiência Profissional
 
-* <span class="icon_color">🔬</span> Scientific Research: Robotics and Artificial Intelligence Scientific Research.
+* <span class="icon_color">🔬</span> Pesquisa Científica em Robótica e Inteligência Artificial. Robotics and Artificial Intelligence Scientific Research.
 
 * <span class="icon_color">🔒</span> Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
