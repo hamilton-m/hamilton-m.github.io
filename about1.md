@@ -23,40 +23,39 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ## <span class="icon_color">💼</span> Experiência Profissional
 
-* <span class="icon_color">🔬</span> Pesquisa Científica em Robótica e Inteligência Artificial. Robotics and Artificial Intelligence Scientific Research.
+* <span class="icon_color">🔬</span> Pesquisa Científica em Robótica e Inteligência Artificial.
 
-* <span class="icon_color">🔒</span> Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
+* <span class="icon_color">🔒</span> Desenvolvimento de Sistema anti-trapaças para jogos.
 
----
-
-## <span class="icon_color">🏫</span> Education
-* <span class="icon_color">🎓</span> Graduation in Systems Analysis and Software Development
+* <span class="icon_color">🔒</span> Criação de Sistemas Web Híbridos completos.
 
 ---
 
-## <span class="icon_color">🔧</span> Skills
+## <span class="icon_color">🏫</span> Educacão
+* <span class="icon_color">🎓</span> Graduação em Análise e Desenvolvimento de Sistemas.
+---
+
+## <span class="icon_color">🔧</span> Habilidades
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png"></code>
+* Web Services
+* Sistemas Web
+* Bancos de Dados
 * C
 * Python
-* Reverse Engineering
-* Programming
+* Programação
 * C++
 * Linux
-* Virtual Machines
-* Web Servers
+* Máquinas Virtuais
+* Servidores Web
 * HTML
 * Python3 & Python2
-* IDA Pro
-* Ollydbg
-* x86 and arm reverse engineering
+* Engenharia Reversa e Re-Engenharia
 * Assembly
-* Dynamic Analysis
-* Static Analysis
 * Anti-Cheat Engines
 * Advanced Computer Security
 * Firmware Development
