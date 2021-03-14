@@ -11,9 +11,9 @@ permalink: /about/
 
 ---
 
-## <span class="icon_color">⏳</span> Who am I
-I am currently graduated in Systems Analysis and Software Development.
-My skills involve a wide knowledge of high and low level systems programming.
+## <span class="icon_color">⏳</span> Quem sou eu
+Atualmente sou graduado em Análise e Desenvolvimento de Sistemas.
+Minhas habilidades envolvem um amplo conhecimento de sistemas de alto e baixo nível de abstração.
 As experience I have worked with scientific research in artificial intelligence and robotics, web development, reverse engineering and software security.
 I can work remotely and have availability during flexible hours. My experience includes advanced knowledge of high level programming languages, as well as low level systems, and languages ​​for Web Services, Web servers, Web deployment and more.
 I love testing the limits of software, as well as programming low-level systems and finding new ways to make things work.
