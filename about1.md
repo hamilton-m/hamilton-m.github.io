@@ -62,11 +62,8 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ---
 
-## <span class="icon_color">🏆</span> Certifications / Licenses
-* <span class="icon_color">🏆</span> TOEFL English Certification
 
----
-
-## <span class="icon_color">🌐</span> Languages
+## <span class="icon_color">🌐</span> Linguagens/Idioms
 * <span class="icon_color">🌐</span> English
 * <span class="icon_color">🌐</span> Brazilian Portuguese
+* <span class="icon_color">🏆</span> TOEFL English Certification
