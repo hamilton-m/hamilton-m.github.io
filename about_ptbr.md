@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PERFIL CENTRALIZADO
-permalink: /about_ptbr/
+permalink: /about_portugues/
 ---
 
 
