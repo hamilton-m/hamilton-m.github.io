@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV Ptbr
+title: PERFIL CENTRALIZADO
 permalink: /about_ptbr/
 ---
 
