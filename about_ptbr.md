@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PERFIL CENTRALIZADO
+title: Perfil
 permalink: /about_portugues/
 ---
 
