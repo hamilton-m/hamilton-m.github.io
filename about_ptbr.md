@@ -30,8 +30,9 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ---
 
-## <span class="icon_color">🏫</span> Educacão
+## <span class="icon_color">🏫</span> Educação
 * <span class="icon_color">🎓</span> Graduação em Análise e Desenvolvimento de Sistemas.
+
 ---
 
 ## <span class="icon_color">🔧</span> Habilidades
