@@ -1,9 +1,9 @@
 ---
-layout: gallery
+layout: default
 permalink: /gallery/
-title:
+title:-️
 ---
-### .
+### 🖼️
 
 ### <center> <span class="icon_color"> 🖼️ </span> Image Gallery </center>
 
