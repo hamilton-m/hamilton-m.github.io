@@ -2,6 +2,7 @@
 layout: page
 title: Perfil
 permalink: /about_portugues/
+visible: 1
 ---
 
 

@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /about/
+visible: 1
 ---
 
 
