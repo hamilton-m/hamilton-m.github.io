@@ -3,7 +3,8 @@ layout: gallery
 permalink: /gallery/
 title:
 ---
+### .
 
- <span class="icon_color"> 🖼️ </span> Hamilton Mendes Image Gallery
+### <center> <span class="icon_color"> 🖼️ </span> Hamilton Mendes Image Gallery </center>
 
 {% include image-gallery.html folder="/assets/uploads" %}
