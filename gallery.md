@@ -5,6 +5,6 @@ title:
 ---
 ### .
 
-### <center> <span class="icon_color"> 🖼️ </span> Hamilton Mendes Image Gallery </center>
+### <center> <span class="icon_color"> 🖼️ </span> Image Gallery </center>
 
 {% include image-gallery.html folder="/assets/uploads" %}
