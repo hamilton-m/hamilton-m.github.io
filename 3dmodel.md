@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /3dmodel/
 title: 🖼
 visible: 0
