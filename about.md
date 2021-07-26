@@ -8,7 +8,7 @@ visible: 1
 
 ## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes 
 * <span class="icon_color">🌎</span> Location: Internet/Brazil
-* <span class="icon_color">📬</span> e-mail: hamilton_j<code><img alt="@" height="30" src="https://cdn.iconscout.com/icon/free/png-64/at-sign-loctaion-symbol-a-mail-44406.png"></code>gmx.com
+* <span class="icon_color">📬</span> e-mail: hamilton_j<img alt="@" height="30" src="https://cdn.iconscout.com/icon/free/png-64/at-sign-loctaion-symbol-a-mail-44406.png">gmx.com
 
 ---
 
@@ -36,12 +36,12 @@ I enjoy working in environments that challenge me and give me new opportunities 
 ---
 
 ## <span class="icon_color">🔧</span> Skills
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png"></code>
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">
 * C
 * Python
 * Reverse Engineering
