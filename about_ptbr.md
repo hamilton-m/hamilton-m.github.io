@@ -37,12 +37,12 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 ---
 
 ## <span class="icon_color">🔧</span> Habilidades
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png"></code>
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">
 * Serviços Web
 * Sistemas Web
 * Bancos de Dados
