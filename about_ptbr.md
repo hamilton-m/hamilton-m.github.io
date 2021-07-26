@@ -7,7 +7,7 @@ visible: 1
 
 
 ## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes
-* <span class="icon_color">📬</span> e-mail: hamilton\_j [arroba] gmx.com
+* <span class="icon_color">📬</span> e-mail: hamilton_j<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/at-sign-loctaion-symbol-a-mail-44406.png"></code>gmx.com
 
 ---
 
