@@ -30,7 +30,7 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 * <span class="icon_color">🔒</span> Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
-* <span class="icon_color">🌐</span> Creation of web/mobile hybrid systems.
+* <span class="icon_color">🌐</span> Creation of complete hybrid web and mobile systems.
 
 ---
 
