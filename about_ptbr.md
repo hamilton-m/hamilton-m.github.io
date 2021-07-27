@@ -21,9 +21,9 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ---
 
-## <span class="icon_color">💼</span> Experiência Profissional
+## <span class="icon_color">💼</span> Experiência
 
-* <span class="icon_color">🔬</span> Pesquisa Científica em Robótica e Inteligência Artificial
+* <span class="icon_color">🔬</span> Desenvolvimento de software de controle robótico e inteligência artificial para pesquisa científica
 
 * <span class="icon_color">🔒</span> Desenvolvimento de Sistema anti-trapaças para jogos
 
@@ -32,7 +32,7 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 ---
 
 ## <span class="icon_color">🏫</span> Educação
-* <span class="icon_color">🎓</span> Graduação em Análise e Desenvolvimento de Sistemas.
+* <span class="icon_color">🎓</span> Graduação em Análise e Desenvolvimento de Sistemas
 
 ---
 
