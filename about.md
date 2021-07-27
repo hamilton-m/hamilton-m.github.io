@@ -24,9 +24,9 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 ---
 
-## <span class="icon_color">💼</span> Work Experience
+## <span class="icon_color">💼</span> Experience
 
-* <span class="icon_color">🔬</span> Scientific Research: Robotics and Artificial Intelligence Scientific Research.
+* <span class="icon_color">🔬</span> Software development for robotic control and artificial intelligence for scientific research
 
 * <span class="icon_color">🔒</span> Private security/reverse engineering: Development of the base system for a games anti-cheat engine.
 
