@@ -3,6 +3,8 @@ layout: page
 title: CV
 permalink: /about/
 visible: 1
+redirect_from:
+  - /about_english/
 ---
 
 

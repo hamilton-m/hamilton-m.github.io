@@ -18,8 +18,12 @@ github_username:  null
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jemoji
+  - jekyll-redirect-from
+  
+whitelist:
+  - jekyll-redirect-from
   
 #emoji:
 #  src: "/assets/images/emoji"
