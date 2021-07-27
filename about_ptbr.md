@@ -23,11 +23,11 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ## <span class="icon_color">💼</span> Experiência
 
-* <span class="icon_color">🔬</span> Desenvolvimento de software de controle robótico e inteligência artificial para pesquisa científica
+* <span class="icon_color">🔬</span> Desenvolvimento de Software de Controle Robótico e Inteligência Artificial em Pesquisa Científica
 
-* <span class="icon_color">🔒</span> Desenvolvimento de Sistema anti-trapaças para jogos
+* <span class="icon_color">🔒</span> Desenvolvimento de Sistema Anti-Trapaças Para Jogos
 
-* <span class="icon_color">🔗</span> Criação de Sistemas Web Híbridos completos
+* <span class="icon_color">🔗</span> Criação de Sistemas Web e Mobile Híbridos Completos
 
 ---
 
