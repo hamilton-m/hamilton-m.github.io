@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /model3d/
+permalink: /3dmodel/
 title: 🖼
 visible: 0
 ---
