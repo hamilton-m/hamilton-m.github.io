@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   “Fear doesn't go away. The warrior and the artist live by the same code of necessity, which dictates that the battle must be fought anew every day.” ― Steven Pressfield
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hamilton-m.github.io" # the base hostname & protocol for your site
+urlttps: "https://hamilton-m.github.io" # the base hostname & protocol for your site
 twitter_username: null
 github_username:  null
 google_analytics: G-T70L3399E2
