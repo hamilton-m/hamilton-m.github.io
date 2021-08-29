@@ -2,7 +2,7 @@
 layout: default
 permalink: /assets/model3d/
 title: 🖼
-visible: 1
+visible: 0
 ---
 
 ### <center> 3D Image Gallery </center>
