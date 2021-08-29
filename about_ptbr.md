@@ -69,3 +69,7 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 * <span class="icon_color">🌐</span> English
 * <span class="icon_color">🌐</span> Brazilian Portuguese
 * <span class="icon_color">🏆</span> TOEFL English Certification
+
+
+![image](https://user-images.githubusercontent.com/77713063/131234517-dc5ed37c-d852-40b7-abab-71530218ce74.png)
+
