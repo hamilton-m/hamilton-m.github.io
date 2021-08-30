@@ -81,5 +81,5 @@ I enjoy working in environments that challenge me and give me new opportunities 
 * <span class="icon_color">🌐</span> Brazilian Portuguese
 
 
-![image](https://user-images.githubusercontent.com/77713063/131234485-29a88592-0348-49ee-9c7c-b0c8760ea15c.png)
+
 
