@@ -2,7 +2,7 @@
 layout: page
 permalink: /gallery/
 title: 🖼
-visible: 1
+visible: 0
 ---
 
 ### <center> 3D Image Gallery </center>
