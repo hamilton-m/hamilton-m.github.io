@@ -71,5 +71,5 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 * <span class="icon_color">🏆</span> TOEFL English Certification
 
 
-![image](https://user-images.githubusercontent.com/77713063/131847505-d5b1c631-471e-4987-b3ee-7e2964ac926c.png)
+![image](https://user-images.githubusercontent.com/77713063/131860070-3a8aae57-515c-43e7-9d26-e7c0c2d1058c.png)
 
