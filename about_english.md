@@ -4,7 +4,7 @@ title: CV
 permalink: /about_english/
 visible: 1
 redirect_from:
-  - /about_english/
+  - /about_englishh/
 ---
 
 
