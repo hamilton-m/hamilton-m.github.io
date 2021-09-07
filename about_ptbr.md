@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Perfil
-permalink: /about_portugues/
+permalink: /about/
 visible: 1
+redirect_from:
+  - /about_ptbr/
 ---
 
 
