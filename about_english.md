@@ -46,26 +46,17 @@ I enjoy working in environments that challenge me and give me new opportunities 
 <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
 <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">
 
-* C
-* Python
-* Reverse Engineering
-* Programming
-* C++
+* Web Services
+* Web Systems
+* Mobile Hybrid Systems
+* Web Infrastructure
+* Frontend and Backend
+* SQL and NoSQL databases
+* Languages: python, javascript, php, css, html
+* Object-Oriented Programming
 * Linux
 * Virtual Machines
 * Web Servers
-* HTML
-* Python3 & Python2
-* IDA Pro
-* Ollydbg
-* x86 and arm reverse engineering
-* Assembly
-* Dynamic Analysis
-* Static Analysis
-* Anti-Cheat Engines
-* Advanced Computer Security
-* Firmware Development
-* Compilation of kernels for embedded systems
 
 ---
 
