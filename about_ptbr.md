@@ -44,24 +44,18 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png">
 <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
 <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">
+
 * Serviços Web
 * Sistemas Web
-* Bancos de Dados
-* C
-* Python
-* Programação
-* C++
+* Sistemas híbridos e mobile
+* Infraestrutura Web
+* Frontend e Backend
+* Bancos de Dados SQL e NoSQL
+* Linguagens: python, javascript, php, css, html
+* Programação Orientada a Objetos
 * Linux
 * Máquinas Virtuais
 * Servidores Web
-* HTML
-* Python3 & Python2
-* Engenharia Reversa e Re-Engenharia
-* Assembly
-* Sistemas Anti-Trapaça
-* Advanced Computer Security
-* Desenvolvimento de Firmwares para Hardware
-* Compilação de Kernels para Sistemas Embarcados
 
 ---
 
