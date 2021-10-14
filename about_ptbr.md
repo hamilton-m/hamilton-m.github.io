@@ -25,9 +25,10 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 ## <span class="icon_color">💼</span> Experiência
 
-* <span class="icon_color">🔬</span> Desenvolvimento de Software de Controle Robótico e Inteligência Artificial em Pesquisa Científica
-
 * <span class="icon_color">🔗</span> Criação de Sistemas Web e Mobile Híbridos Completos
+* 
+* <span class="icon_color">🔬</span> Desenvolvimento de Software de Controle Robótico e Inteligência Artificial
+
 
 ---
 
