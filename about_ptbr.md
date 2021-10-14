@@ -27,8 +27,6 @@ E meu ideal de trabalho é estar em um ambiente que dá oportunidade de resolver
 
 * <span class="icon_color">🔬</span> Desenvolvimento de Software de Controle Robótico e Inteligência Artificial em Pesquisa Científica
 
-* <span class="icon_color">🔒</span> Desenvolvimento de Sistema Anti-Trapaças Para Jogos
-
 * <span class="icon_color">🔗</span> Criação de Sistemas Web e Mobile Híbridos Completos
 
 ---
