@@ -28,7 +28,7 @@ I enjoy working in environments that challenge me and give me new opportunities 
 
 * <span class="icon_color">🌐</span> Creation of complete hybrid web and mobile systems.
 
-* <span class="icon_color">🔬</span> Software development for robotic control and artificial intelligence for scientific research.
+* <span class="icon_color">🔬</span> Software development for robotic control and artificial intelligence.
 
 ---
 
