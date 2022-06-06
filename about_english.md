@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## <span class="icon_color"> 👨‍💻 </span> Hamilton Mendes 
-* <span class="icon_color">🌎</span> Location: Internet/Brazil
+* <span class="icon_color">🌎</span> Location: Internet/Brazil 🇧🇷
 * <span class="icon_color">📬</span> e-mail: hamilton_j<img alt="@" height="30" src="https://cdn.iconscout.com/icon/free/png-64/at-sign-loctaion-symbol-a-mail-44406.png">gmx.com
 
 ---
