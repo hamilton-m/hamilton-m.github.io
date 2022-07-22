@@ -1,10 +1,8 @@
 ---
 layout: page
 title: CV
-permalink: /about_english/
-visible: 1
-redirect_from:
-  - /about_englishh/
+permalink: /about_english_new/
+visible: 0
 ---
 
 
