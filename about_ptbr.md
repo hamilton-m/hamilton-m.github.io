@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Perfil
+title: PT
 permalink: /about_ptbr/
 visible: 1
 redirect_from:
