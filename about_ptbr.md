@@ -4,7 +4,7 @@ title: Perfil
 permalink: /about/
 visible: 1
 redirect_from:
-  - /about_english/
+  - /about_ptbr/
 ---
 
 
