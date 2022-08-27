@@ -5,6 +5,7 @@ permalink: /about/
 visible: 1
 redirect_from:
   - /about_englishh/
+  - /about_english/
 ---
 
 
