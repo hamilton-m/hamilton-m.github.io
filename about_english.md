@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EN
+title: en
 permalink: /about/
 visible: 1
 redirect_from:
