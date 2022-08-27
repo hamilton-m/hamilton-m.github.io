@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /about_english/
+permalink: /about/
 visible: 1
 redirect_from:
   - /about_englishh/
