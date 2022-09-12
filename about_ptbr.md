@@ -4,7 +4,7 @@ title: pt
 permalink: /about_ptbr/
 visible: 1
 redirect_from:
-  - /about_ptbrr/
+  - /about_portugues/
 ---
 
 
